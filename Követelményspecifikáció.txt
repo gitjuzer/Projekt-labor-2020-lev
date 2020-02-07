@@ -4,6 +4,9 @@ Feladatgenerátor projekt
 Iskolánk pályázati forrásból egy közös web portál kialakítását tűzte ki célul, amely több tantárggyal kapcsolatos területeken a diákok gyakorlását segíti elő.
 
 2. Jelenlegi helyzet
+Ismétlés a tudás anyja, sokat kell gyakorolni, ebben az iskola tanárai egyetetértenek.
+A diákok különböző szinten vannak, van akinek több gyakorlás kell, van akinek kevesebb is elég.
+Van szerverünk, és van néhány infós tanár, akik szívesen segítenének, abban, hogy a diákok minél többet gyakorolhassanak.
 
 3. Vágyálom rendszer
 
