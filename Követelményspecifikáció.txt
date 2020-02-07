@@ -14,5 +14,6 @@ Olyan rendszert szeretnénk, amely web felületen elérhető.
 Jogosultság esetén a tanárok saját területükhöz feladat generátor modulokat tölthetnek fel.
 
 4. Jelenlegi folyamatok modellje
+Jelenleg a kiadott feladatok ellenőrzését a tanár végzi.
 
 5. Igényelt folyamatok modellje
