@@ -7,6 +7,7 @@ Iskolánk pályázati forrásból egy közös web portál kialakítását tűzte
 Ismétlés a tudás anyja, sokat kell gyakorolni, ebben az iskola tanárai egyetetértenek.
 A diákok különböző szinten vannak, van akinek több gyakorlás kell, van akinek kevesebb is elég.
 Van szerverünk, és van néhány infós tanár, akik szívesen segítenének, abban, hogy a diákok minél többet gyakorolhassanak.
+Sok helyen tapasztalható, hogy a diákok a számítógépek és az internet segítségével elérhető információkat, lehetőségeket szívesen használjak.
 
 3. Vágyálom rendszer
 
