@@ -14,5 +14,9 @@ Olyan rendszert szeretnénk, amely web felületen elérhető.
 Jogosultság esetén a tanárok saját területükhöz feladat generátor modulokat tölthetnek fel.
 
 4. Jelenlegi folyamatok modellje
+Jelenleg a feladatok kiosztása:
+- Tanóra alatt
+- Tanóra végén
+- Facebook messenger üzenet formájában
 
 5. Igényelt folyamatok modellje
