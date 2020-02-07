@@ -10,6 +10,8 @@ Van szerverünk, és van néhány infós tanár, akik szívesen segítenének, a
 Sok helyen tapasztalható, hogy a diákok a számítógépek és az internet segítségével elérhető információkat, lehetőségeket szívesen használjak.
 
 3. Vágyálom rendszer
+Olyan rendszert szeretnénk, amely web felületen elérhető.
+Jogosultság esetén a tanárok saját területükhöz feladat generátor modulokat tölthetnek fel.
 
 4. Jelenlegi folyamatok modellje
 
