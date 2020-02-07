@@ -1,0 +1,22 @@
+
+Git for Windows telepítés
+
+Tortoise Git telepítés
+
+Github projekt létrehozása
+
+Github projekt lokális klónozása
+
+Első állomány(ok) létrehozása
+
+Tortoise Git/Add az állomány(ok)ra
+
+Commit (első alkalommal személyes adatok, név, email)
+
+Push (hogy a közös repóba felkerüljön)
+
+Pull (Többiek, hogy nekik is lejöjjenek a módosítások)
+
+Ha egyszerre dolgoztak és küldik fel, akkor a 2. kell pull
+a) ha külön helyen történtek a módosítások, akkor auto-merge
+a) ha átfedés van, akkor a 2. konfliktust kell feloldjon
