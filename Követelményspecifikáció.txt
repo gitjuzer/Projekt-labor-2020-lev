@@ -1,0 +1,12 @@
+Feladatgenerátor projekt
+
+1. Bevezetés
+Iskolánk pályázati forrásból egy közös web portál kialakítását tűzte ki célul, amely több tantárggyal kapcsolatos területeken a diákok gyakorlását segíti elő.
+
+2. Jelenlegi helyzet
+
+3. Vágyálom rendszer
+
+4. Jelenlegi folyamatok modellje
+
+5. Igényelt folyamatok modellje
