@@ -9,6 +9,8 @@ A diákok különböző szinten vannak, van akinek több gyakorlás kell, van ak
 Van szerverünk, és van néhány infós tanár, akik szívesen segítenének, abban, hogy a diákok minél többet gyakorolhassanak.
 
 3. Vágyálom rendszer
+Olyan rendszert szeretnénk, amely web felületen elérhető.
+Jogosultság esetén a tanárok saját területükhöz feladat generátor modulokat tölthetnek fel.
 
 4. Jelenlegi folyamatok modellje
 
